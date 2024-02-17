@@ -1,0 +1,17 @@
+require 'socket'
+
+def scan(host, port)
+    begin
+        s = TCPScoket.new(host, port)
+        puts " [+] Port #{port} is currently open. . ."
+        s.close
+    rescue Errno::ECONNREFUSED, Errno::EHOSTUNREACH
+        puts " [-] Port #{port} is currently closed. . ."
+        
+    end
+    
+end
+
+hosts = "127.0.0.1"
+ports = (1..6535).to_a
+ports.each { |port| scan(host, port) }
