@@ -11,7 +11,7 @@
 - >$ Currently working on my **PQC Encryption & PQC Solutions**.
 - >$ Learning **Falcon Algorithm with Assembly**.
 - >$ All of my projects will soon be available at **[soon]**.
-- >$ I regularly write articles at **[soon]**.
+- >$ "I regularly upload files and other relevant work here  **[soon]**.
 - >$ Feel free to ask me about **Assembly, Kyber, SPHINCS+, or Blackarch**.
 - >$ How to reach me: [ftdimitriadis@outlook.com](mailto:ftdimitriadis@outlook.com).
 
