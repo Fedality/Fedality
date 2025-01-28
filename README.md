@@ -12,22 +12,26 @@
             margin: 0;
             padding: 0;
         }
+
         header {
             text-align: center;
             padding: 50px 20px;
             background: #1f1f1f;
             color: #00ff00;
         }
+
         header h1 {
             font-size: 2.5rem;
             margin: 0;
             text-shadow: 0 0 8px #00ff00;
         }
+
         header h3 {
             font-size: 1.5rem;
             font-weight: 300;
             text-shadow: 0 0 5px #00ff00;
         }
+
         section {
             max-width: 800px;
             margin: 40px auto;
@@ -36,56 +40,69 @@
             border-radius: 8px;
             box-shadow: 0 4px 10px rgba(0, 255, 0, 0.2);
         }
+
         section h3 {
             border-bottom: 2px solid #00ff00;
             padding-bottom: 5px;
             margin-bottom: 15px;
         }
+
         .info-list {
             list-style: none;
             padding: 0;
         }
+
         .info-list li {
             margin: 10px 0;
         }
+
         .info-list a {
             color: #00ff00;
             text-decoration: none;
         }
+
         .info-list a:hover {
             text-decoration: underline;
         }
+
         .social-links img {
             margin-right: 10px;
         }
+
         .languages-tools img {
             margin: 10px;
             transition: transform 0.3s;
             filter: grayscale(100%);
         }
+
         .languages-tools img:hover {
             transform: scale(1.2);
             filter: none;
         }
+
         .stats {
             display: flex;
             flex-wrap: wrap;
             gap: 20px;
             justify-content: center;
         }
+
         .stats img {
             max-width: 100%;
             border-radius: 8px;
         }
+
         .highlight {
             font-weight: bold;
             color: #00ff00;
         }
+
         .gif-placeholder {
             display: flex;
             justify-content: center;
             margin-top: 30px;
         }
+
         .gif-placeholder img {
             max-width: 100%;
             border-radius: 8px;
@@ -104,6 +121,7 @@
     <p align="center">
         <img src="https://komarev.com/ghpvc/?username=fedality&label=Profile%20views&color=00ff00&style=flat" alt="Profile Views" />
     </p>
+
     <h3>About Me</h3>
     <ul class="info-list">
         <li>🌟 Currently working on my <span class="highlight">PQC Encryption & PQC Solutions</span>.</li>
@@ -113,6 +131,7 @@
         <li>💬 Feel free to ask me about <span class="highlight">Assembly, Kyber, SPHINCS+, or Blackarch</span>.</li>
         <li>📩 How to reach me: <a href="mailto:ftdimitriadis@outlook.com">ftdimitriadis@outlook.com</a>.</li>
     </ul>
+
     <h3>Connect with Me</h3>
     <p class="social-links">
         <a href="https://linkedin.com/in/fotis-dimitriadis" target="_blank">
