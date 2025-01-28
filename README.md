@@ -35,15 +35,16 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap; gap: 5px; overflow-x: auto; text-align: center; padding: 5px 0;">
     <div style="flex: 0 1 auto; min-width: 60px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fedality&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; max-width: 80px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fedality&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="max-width: 80px; height: auto;" />
     </div>
     <div style="flex: 0 1 auto; min-width: 60px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=fedality&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="width: 100%; max-width: 80px;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=fedality&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="max-width: 80px; height: auto;" />
     </div>
     <div style="flex: 0 1 auto; min-width: 60px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedality&theme=radical" alt="GitHub Streak" style="width: 100%; max-width: 80px;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedality&theme=radical" alt="GitHub Streak" style="max-width: 80px; height: auto;" />
     </div>
 </div>
+
 
 
 
