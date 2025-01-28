@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedality" alt="fedality" /></a> </p>
 
-- Hi, currently i am working on my **PQC Encryptions & PQC Solutions**
+- Hi, currently i am working on my **PQC Encryption & PQC Solutions**
 
 - I’m currently learning **Falcon Algorithm with assembly**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Assembly, Kyber, SPHINCS+ or Blackarch**
 
-- How to reach me email **ftdimitriadis@outlook.com**
+- How to reach me: **ftdimitriadis@outlook.com**
 
 - 📄 Know about my experiences [{soon}]({soon})
 
