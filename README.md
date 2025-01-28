@@ -34,16 +34,17 @@
 ### Stats
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; gap: 20px; text-align: center;">
-    <div style="flex: 1; text-align: center; min-width: 200px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fedality&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+    <div style="flex: 1; text-align: center; min-width: 150px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fedality&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="max-width: 120px;" />
     </div>
-    <div style="flex: 1; text-align: center; min-width: 100px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=fedality&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+    <div style="flex: 1; text-align: center; min-width: 150px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=fedality&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="max-width: 120px;" />
     </div>
-    <div style="flex: 1; text-align: center; min-width: 100px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedality&theme=radical" alt="GitHub Streak" />
+    <div style="flex: 1; text-align: center; min-width: 150px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedality&theme=radical" alt="GitHub Streak" style="max-width: 120px;" />
     </div>
 </div>
+
 
 
 ---
