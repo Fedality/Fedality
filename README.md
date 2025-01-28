@@ -37,10 +37,10 @@
     <div style="flex: 1; text-align: center; min-width: 200px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fedality&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
     </div>
-    <div style="flex: 1; text-align: center; min-width: 200px;">
+    <div style="flex: 1; text-align: center; min-width: 100px;">
         <img src="https://github-readme-stats.vercel.app/api?username=fedality&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
     </div>
-    <div style="flex: 1; text-align: center; min-width: 200px;">
+    <div style="flex: 1; text-align: center; min-width: 100px;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedality&theme=radical" alt="GitHub Streak" />
     </div>
 </div>
