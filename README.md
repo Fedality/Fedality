@@ -27,7 +27,7 @@
 
 ### Languages and Tools
 
-<p>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://angular.io" target="_blank">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
     </a>
@@ -43,7 +43,8 @@
     <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
     </a>
-</p>
+</div>
+
 
 ---
 
