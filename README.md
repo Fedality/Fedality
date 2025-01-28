@@ -33,18 +33,15 @@
 
 ### Stats
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fedality&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fedality&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedality&theme=radical" alt="GitHub Streak" />
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fedality&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="flex: 1; max-width: 33%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fedality&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="flex: 1; max-width: 33%;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedality&theme=radical" alt="GitHub Streak" style="flex: 1; max-width: 33%;" />
+</div>
 
 ---
-
+<!--
 <p align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacker GIF" />
 </p>
+-->
