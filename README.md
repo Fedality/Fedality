@@ -1,34 +1,179 @@
-<h1 align="center">Hello, I'm Fotis</h1>
-<h3 align="center">A self-taught pen tester and full stack developer.</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fotis Dimitriadis - Portfolio</title>
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: #121212;
+            color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fedality&label=Profile%20views&color=0e75b6&style=flat" alt="fedality" /> </p>
+        header {
+            text-align: center;
+            padding: 50px 20px;
+            background: #1f1f1f;
+            color: #00ff00;
+        }
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedality" alt="fedality" /></a> </p>
+        header h1 {
+            font-size: 2.5rem;
+            margin: 0;
+            text-shadow: 0 0 8px #00ff00;
+        }
 
-- Hi, currently i am working on my **PQC Encryption & PQC Solutions**
+        header h3 {
+            font-size: 1.5rem;
+            font-weight: 300;
+            text-shadow: 0 0 5px #00ff00;
+        }
 
-- I’m currently learning **Falcon Algorithm with assembly**
+        section {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #1a1a1a;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0, 255, 0, 0.2);
+        }
 
-- All of my projects are available at [{soon}]({soon})
+        section h3 {
+            border-bottom: 2px solid #00ff00;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+        }
 
-- 📝 I regularly write articles on [{soon}]({soon})
+        .info-list {
+            list-style: none;
+            padding: 0;
+        }
 
-- 💬 Ask me about **Assembly, Kyber, SPHINCS+ or Blackarch**
+        .info-list li {
+            margin: 10px 0;
+        }
 
-- How to reach me: **ftdimitriadis@outlook.com**
+        .info-list a {
+            color: #00ff00;
+            text-decoration: none;
+        }
 
-- 📄 Know about my experiences [{soon}]({soon})
+        .info-list a:hover {
+            text-decoration: underline;
+        }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fotis dimitriadis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fotis dimitriadis" height="30" width="40" /></a>
-</p>
+        .social-links img {
+            margin-right: 10px;
+        }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+        .languages-tools img {
+            margin: 10px;
+            transition: transform 0.3s;
+            filter: grayscale(100%);
+        }
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedality&show_icons=true&locale=en&layout=compact" alt="fedality" /></p>
+        .languages-tools img:hover {
+            transform: scale(1.2);
+            filter: none;
+        }
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fedality&show_icons=true&locale=en" alt="fedality" /></p>
+        .stats {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fedality&" alt="fedality" /></p>
+        .stats img {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+
+        .highlight {
+            font-weight: bold;
+            color: #00ff00;
+        }
+
+        .gif-placeholder {
+            display: flex;
+            justify-content: center;
+            margin-top: 30px;
+        }
+
+        .gif-placeholder img {
+            max-width: 100%;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0, 255, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Hello, I'm Fotis Dimitriadis</h1>
+    <h3>A self-taught Pen Tester and Full Stack Developer</h3>
+</header>
+
+<section>
+    <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=fedality&label=Profile%20views&color=00ff00&style=flat" alt="Profile Views" />
+    </p>
+
+    <h3>About Me</h3>
+    <ul class="info-list">
+        <li>🌟 Currently working on my <span class="highlight">PQC Encryption & PQC Solutions</span>.</li>
+        <li>📚 Learning <span class="highlight">Falcon Algorithm with Assembly</span>.</li>
+        <li>🖇️ All of my projects will soon be available at <a href="#">[soon]</a>.</li>
+        <li>📝 I regularly write articles at <a href="#">[soon]</a>.</li>
+        <li>💬 Feel free to ask me about <span class="highlight">Assembly, Kyber, SPHINCS+, or Blackarch</span>.</li>
+        <li>📩 How to reach me: <a href="mailto:ftdimitriadis@outlook.com">ftdimitriadis@outlook.com</a>.</li>
+    </ul>
+
+    <h3>Connect with Me</h3>
+    <p class="social-links">
+        <a href="https://linkedin.com/in/fotis-dimitriadis" target="_blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+        </a>
+    </p>
+</section>
+
+<section>
+    <h3>Languages and Tools</h3>
+    <div class="languages-tools">
+        <a href="https://angular.io" target="_blank">
+            <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
+        </a>
+        <a href="https://getbootstrap.com" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+        </a>
+        <a href="https://www.cprogramming.com/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+        </a>
+        <a href="https://www.w3schools.com/cpp/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+        </a>
+        <a href="https://www.python.org" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+        </a>
+        <!-- Add more tools as required -->
+    </div>
+</section>
+
+<section>
+    <h3>Stats</h3>
+    <div class="stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fedality&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api?username=fedality&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedality&theme=radical" alt="GitHub Streak" />
+    </div>
+</section>
+
+<div class="gif-placeholder">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacker GIF" />
+</div>
+
+</body>
+</html>
