@@ -8,12 +8,12 @@
 
 ### About Me
 
-- 🌟 Currently working on my **PQC Encryption & PQC Solutions**.
-- 📚 Learning **Falcon Algorithm with Assembly**.
-- 🖇️ All of my projects will soon be available at **[soon]**.
-- 📝 I regularly write articles at **[soon]**.
-- 💬 Feel free to ask me about **Assembly, Kyber, SPHINCS+, or Blackarch**.
-- 📩 How to reach me: [ftdimitriadis@outlook.com](mailto:ftdimitriadis@outlook.com).
+- >$ Currently working on my **PQC Encryption & PQC Solutions**.
+- >$ Learning **Falcon Algorithm with Assembly**.
+- >$ All of my projects will soon be available at **[soon]**.
+- >$ I regularly write articles at **[soon]**.
+- >$ Feel free to ask me about **Assembly, Kyber, SPHINCS+, or Blackarch**.
+- >$ How to reach me: [ftdimitriadis@outlook.com](mailto:ftdimitriadis@outlook.com).
 
 ### Connect with Me
 
@@ -47,12 +47,12 @@
 
 -->
 
-# 📊 GitHub Stats:
+# My Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Fedality&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fedality&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedality&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
