@@ -8,8 +8,7 @@
 
 ### About Me
 
-- >$ Currently working on my **PQC Encryption & PQC Solutions**.
-- >$ Learning **Falcon Algorithm with Assembly**.
+A security enthusiast with a passion for creative projects. In my spare time, I focus on 3D modeling and game development. I'm always excited to learn new things and build my skills in both the creative and security fields.
 
 - >$ How to reach me: [ftdimitriadis@outlook.com](mailto:ftdimitriadis@outlook.com).
 
